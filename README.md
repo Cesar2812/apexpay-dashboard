@@ -1,2 +1,2 @@
 # apexpay-dashboard
-# Tema Del Proyecto: Claro
+# Tema Del Proyecto: Hibrido
